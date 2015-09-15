@@ -1,4 +1,4 @@
-# 本地 php 推送服务器使用方法
+# APNS-Server 使用方法
 
 ## PHP 版
 
